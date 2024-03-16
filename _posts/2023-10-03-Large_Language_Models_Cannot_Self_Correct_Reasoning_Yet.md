@@ -5,7 +5,7 @@ categories: ['self-correct reasoning']
 tags: ['self-correct reasoning']
 ---
 
-- 📙Paper: "[Large Language Models Cannot Self-Correct Reasoning Yet](https://www.semanticscholar.org/paper/Large-Language-Models-Cannot-Self-Correct-Reasoning-Huang-Chen/6d4bacb69923e1e94fb4de468b939ce6db32fb51)"
+- 📙Paper: "[dgsdg](dsgfdhgf)"
 - 🔑Public: ✅
 - ⚲ area: Self-correct reasoning
 - 📅 Date: 2023-10-03

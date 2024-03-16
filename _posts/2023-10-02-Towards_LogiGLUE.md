@@ -5,7 +5,7 @@ categories: ['logical reasoning']
 tags: ['logical reasoning']
 ---
 
-- 📙Paper: "[Towards LogiGLUE: A Brief Survey and A Benchmark for Analyzing Logical Reasoning Capabilities of Language Models](https://www.semanticscholar.org/paper/Towards-LogiGLUE%3A-A-Brief-Survey-and-A-Benchmark-of-Luo-Kumbhar/68ef6138e007421f1a70e2d0ce1b3308a54cc784)"
+- 📙Paper: "[dgsdg](dsgfdhgf)"
 - 🔑Public: ✅
 - ⚲ area: Logical reasoning
 - 📅 Date: 2023-10-02

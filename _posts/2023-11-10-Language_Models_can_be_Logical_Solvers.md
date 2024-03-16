@@ -5,7 +5,7 @@ categories: ['LoGiPT']
 tags: ['LoGiPT']
 ---
 
-- 📙Paper: "[Language Models can be Logical Solvers](https://www.semanticscholar.org/paper/Language-Models-can-be-Logical-Solvers-Feng-Xu/a2ccffe67a4ccfb10279dc3f0167fe65ae01e471)"
+- 📙Paper: "[dgsdg](dsgfdhgf)"
 - 🔑Public: ✅
 - ⚲ area: Logipt
 - 📅 Date: 2023-11-10

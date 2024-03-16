@@ -5,7 +5,7 @@ categories: ['tree of thoughts', ' sudoku puzzle']
 tags: ['tree of thoughts', ' sudoku puzzle']
 ---
 
-- 📙Paper: "[Large Language Model Guided Tree-of-Thought](https://www.semanticscholar.org/paper/Large-Language-Model-Guided-Tree-of-Thought-Long/bda605928d6ebe4db906e69ab5d343df75918727)"
+- 📙Paper: "[dgsdg](dsgfdhgf)"
 - 🔑Public: ✅
 - ⚲ area: Tree of thoughts,  sudoku puzzle
 - 📅 Date: 2023-05-15

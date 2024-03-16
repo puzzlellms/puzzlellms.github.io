@@ -5,7 +5,7 @@ categories: ['complexity cot', 'prompting']
 tags: ['complexity cot', 'prompting']
 ---
 
-- 📙Paper: "[Complexity-Based Prompting for Multi-Step Reasoning](https://www.semanticscholar.org/paper/Complexity-Based-Prompting-for-Multi-Step-Reasoning-Fu-Peng/c88cafa3e980765a64febe369ceb7c2aa7261d2a)"
+- 📙Paper: "[dgsdg](dsgfdhgf)"
 - 🔑Public: ✅
 - ⚲ area: Complexity cot, Prompting
 - 📅 Date: 2022-10-03

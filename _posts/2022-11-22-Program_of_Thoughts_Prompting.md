@@ -5,7 +5,7 @@ categories: ['reasoning', ' code generation']
 tags: ['few-shot ', 'reasoning', ' code generation']
 ---
 
-- 📙Paper: "[Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks](https://www.semanticscholar.org/paper/Program-of-Thoughts-Prompting%3A-Disentangling-from-Chen-Ma/6c943670dca38bfc7c8b477ae7c2d1fba1ad3691)"
+- 📙Paper: "[dgsdg](dsgfdhgf)"
 - 🔑Public: ✅
 - ⚲ area: Few-shot , Reasoning,  code generation
 - 📅 Date: 2022-11-22
