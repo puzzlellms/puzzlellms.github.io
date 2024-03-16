@@ -3,7 +3,7 @@ title: Unleashing the potential of prompt engineering in Large Language Models: 
 author: coder
 date: 2023-10-23 00:00:00 +0800
 categories: [arxiv]
-tags: [prompting survey]
+tags: [prompting_survey]
 math: true
 ---
 
