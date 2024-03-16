@@ -1,13 +1,13 @@
 ---
-title: Unleashing_the_potential_of_prompt_engineering_in_Large_Language_Models__a_comprehensive_review
-date: 2023-10-23 00:00:00 +0800
-categories: ['prompting', 'survey']
-tags: ['prompting', 'survey']
+title: Towards_Better_Chain-of-Thought_Prompting_Strategies__A_Survey
+date: 2023-10-08 00:00:00 +0800
+categories: ['prompting', 'cot']
+tags: ['prompting', 'cot']
 ---
 
 - 📙Paper: "[Unleashing the potential of prompt engineering in Large Language Models: a comprehensive review](https://www.semanticscholar.org/paper/Unleashing-the-potential-of-prompt-engineering-in-a-Chen-Zhang/595c8d39a6155354fd7d8f62a4441be5c82e68da)"
 - 🔑Public: ✅
-- ⚲ area: Prompting, Survey
-- 📅 Date: 2023-10-23
+- ⚲ area: Prompting, Cot
+- 📅 Date: 2023-10-08
 - 🔎 Taxonomy: general methods
-- 📝 #References: 129
+- 📝 #References: 113
