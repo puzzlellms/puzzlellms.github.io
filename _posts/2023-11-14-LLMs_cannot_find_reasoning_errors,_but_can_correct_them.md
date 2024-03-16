@@ -1,5 +1,5 @@
 ---
-title: LLMs_cannot_find_reasoning_errors,_but_can_correct_them!
+title: LLMs_cannot_find_reasoning_errors,_but_can_correct_them
 date: 2023-11-14 00:00:00 +0800
 categories: ['self-correct']
 tags: ['self-correct']

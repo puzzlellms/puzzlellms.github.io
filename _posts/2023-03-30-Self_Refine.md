@@ -1,5 +1,5 @@
 ---
-title: Self-Refine
+title: Self_Refine
 date: 2023-03-30 00:00:00 +0800
 categories: ['self-critique']
 tags: ['self-critique']

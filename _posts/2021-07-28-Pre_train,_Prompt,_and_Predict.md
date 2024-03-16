@@ -1,5 +1,5 @@
 ---
-title: Pre-train,_Prompt,_and_Predict
+title: Pre_train,_Prompt,_and_Predict
 date: 2021-07-28 00:00:00 +0800
 categories: ['prompting', 'survey']
 tags: ['prompting', 'survey']

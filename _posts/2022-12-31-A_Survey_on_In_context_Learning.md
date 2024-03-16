@@ -1,5 +1,5 @@
 ---
-title: A_Survey_on_In-context_Learning
+title: A_Survey_on_In_context_Learning
 date: 2022-12-31 00:00:00 +0800
 categories: ['in-context learning', 'survey']
 tags: ['in-context learning', 'survey']

@@ -1,5 +1,5 @@
 ---
-title: Large_Language_Model_Guided_Tree-of-Thought
+title: Large_Language_Model_Guided_Tree_of_Thought
 date: 2023-05-15 00:00:00 +0800
 categories: ['tree of thoughts', ' sudoku puzzle']
 tags: ['tree of thoughts', ' sudoku puzzle']

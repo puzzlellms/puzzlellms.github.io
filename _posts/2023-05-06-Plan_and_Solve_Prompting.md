@@ -1,5 +1,5 @@
 ---
-title: Plan-and-Solve_Prompting
+title: Plan_and_Solve_Prompting
 date: 2023-05-06 00:00:00 +0800
 categories: ['reasoning', 'prompting']
 tags: ['cot', 'reasoning', 'prompting']
