@@ -10,4 +10,4 @@ tags: [riddle solving, reasoning]
 - ⚲ Area: Riddle solving, Reasoning
 - 📅 Date: 2021-01-02
 - 🔎 Taxonomy: fine-tuning
-- 📝 #References: 47
+- 📝 References: 47

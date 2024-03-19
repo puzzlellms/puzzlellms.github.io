@@ -10,4 +10,4 @@ tags: [crossword puzzle, dataset]
 - ⚲ Area: Crossword puzzle, Dataset
 - 📅 Date: 2021-03-01
 - 🔎 Taxonomy: fine-tuning
-- 📝 #References: 29
+- 📝 References: 29

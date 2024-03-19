@@ -10,4 +10,4 @@ tags: [puzzle benchmark, dataset]
 - ⚲ Area: Puzzle benchmark, Dataset
 - 📅 Date: -
 - 🔎 Taxonomy: fine-tuning
-- 📝 #References: 63
+- 📝 References: 63
