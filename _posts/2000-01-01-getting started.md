@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-author: coder
+author: ails
 date: 2000-01-01 00:00:00 +0800
 categories: [Getting Started]
 tags: [Getting Started]
@@ -15,9 +15,8 @@ A website where we can share the advances in large language models for Puzzle So
 
 ## ✏️Add Your Own Model/Benchmark/Metric/Product
 
-1. Follow [the guide](https://chirpy.cotes.page/posts/write-a-new-post/) ([template](https://raw.githubusercontent.com/NL2Code/NL2Code.github.io/main/_posts/2021-07-07-Codex.md)) to write markdown file for your work;
+1. Follow [the guide](https://chirpy.cotes.page/posts/write-a-new-post/) ([template](https://raw.githubusercontent.com/puzzlellms/puzzlellms.github.io/main/_posts/2000-01-01-template.md)) to write markdown file for your work;
 2. [Pull requests](https://github.com/puzzlellms/puzzlellms.github.io/pulls) for this markdown file to `puzzlellms.github.io/_posts/` and wait for our feedback.
-
 
 
 
