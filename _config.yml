@@ -23,13 +23,13 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://puzzlellms.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: puzzlellms # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -45,12 +45,12 @@ social:
     # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
-
+google-site-verification=zsKis5bVRvV46KPKZ30faUFQGWIBRxR6aF2yGL6gQNw
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-K3R7WNDLH1 # fill in your Google Analytics ID
 
 goatcounter:
   id: # fill in your Goatcounter ID
