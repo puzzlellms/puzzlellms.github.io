@@ -1,0 +1,13 @@
+---
+title: LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers
+date: 2023-10-23 00:00:00 +0800
+categories: [neurosymbolic,  1st order logic]
+tags: [neurosymbolic,  1st order logic]
+---
+
+- 📙Paper: "[LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers](https://www.semanticscholar.org/paper/LINC%3A-A-Neurosymbolic-Approach-for-Logical-by-with-Olausson-Gu/66d98dc2aad17c03532dbae21d05f098257cc2e2)"
+- 🔑Public: ✅
+- ⚲ Area: Neurosymbolic,  1st order logic
+- 📅 Date: 2023-10-23
+- 🔎 Taxonomy: puzzle translation
+- 📝 References: 92

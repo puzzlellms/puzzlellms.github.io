@@ -1,0 +1,13 @@
+---
+title: Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning
+date: 2023-05-20 00:00:00 +0800
+categories: [tool]
+tags: [tool]
+---
+
+- 📙Paper: "[Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning](https://www.semanticscholar.org/paper/Logic-LM%3A-Empowering-Large-Language-Models-with-for-Pan-Albalak/9e9e4df2996bac794c4f04cb887df3e553bae4fd?sort=relevance&page=2)"
+- 🔑Public: ✅
+- ⚲ Area: Tool
+- 📅 Date: 2023-05-20
+- 🔎 Taxonomy: puzzle translation
+- 📝 References: 67
