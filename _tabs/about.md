@@ -26,4 +26,4 @@ Exploring the capabilities of Large Language Models (LLMs) in puzzle solving unv
 
 ### Laboratory
 
-[Artificial Intelligence and Learning Systems Laboratory](https://www.ails.ece.ntua.gr/)
+[Artificial Intelligence and Learning Systems Laboratory](https://www.ails.ece.ntua.gr/), National Technical University of Athens.
