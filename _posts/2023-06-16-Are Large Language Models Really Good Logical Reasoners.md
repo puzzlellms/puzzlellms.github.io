@@ -1,5 +1,5 @@
 ---
-title: Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond
+title: Are Large Language Models Really Good Logical Reasoners
 date: 2023-06-16 00:00:00 +0800
 categories: [logical reasoning, reasoning evaluation]
 tags: [reasoning evaluation, logical reasoning]

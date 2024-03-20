@@ -1,5 +1,5 @@
 ---
-title: Are ChatGPT and GPT-4 Good Poker Players? - A Pre-Flop Analysis
+title: Are ChatGPT and GPT-4 Good Poker Players
 date: 2023-08-23 00:00:00 +0800
 categories: [dataset, stochastic]
 tags: [dataset, rule-based, stochastic]
