@@ -9,5 +9,5 @@ tags: []
 - 🔑Public: ✅
 - ⚲ Area: 
 - 📅 Date: 2023-11-10
-- 🔎 Paper Section: methods / fine-tuning
+- 🔎 Paper Section: fine-tuning
 - 📝 References: 42

@@ -9,5 +9,5 @@ tags: []
 - 🔑Public: ✅
 - ⚲ Area: 
 - 📅 Date: 2023-07-15
-- 🔎 Paper Section: methods / puzzle translation
+- 🔎 Paper Section: puzzle translation
 - 📝 References: 47

@@ -9,5 +9,5 @@ tags: []
 - 🔑Public: ✅
 - ⚲ Area: 
 - 📅 Date: 2021-01-02
-- 🔎 Paper Section: dataset / rule-less / riddles
+- 🔎 Paper Section: fine-tuning
 - 📝 References: 47

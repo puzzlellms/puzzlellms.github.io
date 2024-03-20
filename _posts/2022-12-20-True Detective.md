@@ -9,5 +9,5 @@ tags: []
 - 🔑Public: ✅
 - ⚲ Area: 
 - 📅 Date: 2022-12-20
-- 🔎 Paper Section: dataset / rule-less / commonsense
+- 🔎 Paper Section: advanced / golden cot
 - 📝 References: 22

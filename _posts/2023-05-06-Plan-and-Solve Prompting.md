@@ -9,5 +9,5 @@ tags: []
 - 🔑Public: ✅
 - ⚲ Area: 
 - 📅 Date: 2023-05-06
-- 🔎 Paper Section: methods / advanced / plan and solve
+- 🔎 Paper Section: advanced / plan and solve
 - 📝 References: 53

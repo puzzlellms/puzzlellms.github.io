@@ -9,5 +9,5 @@ tags: []
 - 🔑Public: ✅
 - ⚲ Area: 
 - 📅 Date: 2022-10-03
-- 🔎 Paper Section: methods / fundamental / complexity cot
+- 🔎 Paper Section: fundamental / complexity cot
 - 📝 References: 41

@@ -9,5 +9,5 @@ tags: []
 - 🔑Public: ✅
 - ⚲ Area: 
 - 📅 Date: 2023-08-16
-- 🔎 Paper Section: methods / advanced / got
+- 🔎 Paper Section: advanced / got
 - 📝 References: 31

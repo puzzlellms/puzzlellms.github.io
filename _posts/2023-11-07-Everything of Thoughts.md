@@ -9,5 +9,5 @@ tags: []
 - 🔑Public: ✅
 - ⚲ Area: 
 - 📅 Date: 2023-11-07
-- 🔎 Paper Section: methods / advanced / xot
+- 🔎 Paper Section: advanced / xot
 - 📝 References: 37

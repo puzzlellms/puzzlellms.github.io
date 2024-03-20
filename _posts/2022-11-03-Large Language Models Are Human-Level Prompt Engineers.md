@@ -9,5 +9,5 @@ tags: []
 - 🔑Public: ✅
 - ⚲ Area: 
 - 📅 Date: 2022-11-03
-- 🔎 Paper Section: methods / fundamental / few-shot
+- 🔎 Paper Section: fundamental / few-shot
 - 📝 References: 62

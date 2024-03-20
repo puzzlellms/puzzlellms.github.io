@@ -9,5 +9,5 @@ tags: []
 - 🔑Public: ✅
 - ⚲ Area: 
 - 📅 Date: 2023-10-18
-- 🔎 Paper Section: methods / advanced / inferential exclusion prompting
+- 🔎 Paper Section: advanced / inferential exclusion prompting
 - 📝 References: 49
