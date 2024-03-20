@@ -9,5 +9,5 @@ tags: [prompting, cot]
 - 🔑Public: ✅
 - ⚲ Area: Prompting, Cot
 - 📅 Date: 2022-01-28
-- 🔎 Taxonomy: fundamental / cot
+- 🔎 Paper Section: methods / fundamental / cot
 - 📝 References: 117
