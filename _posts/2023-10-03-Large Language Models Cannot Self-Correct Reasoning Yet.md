@@ -9,5 +9,5 @@ tags: []
 - 🔑Public: ✅
 - ⚲ Area: 
 - 📅 Date: 2023-10-03
-- 🔎 Paper Section: advanced / self-correction
+- 🔎 Paper Section: methods / advanced / self-correction
 - 📝 References: 49

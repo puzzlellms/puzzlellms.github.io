@@ -9,5 +9,5 @@ tags: []
 - 🔑Public: ✅
 - ⚲ Area: 
 - 📅 Date: 2022-05-20
-- 🔎 Paper Section: fine-tuning
+- 🔎 Paper Section: dataset / rule-based / deterministic
 - 📝 References: 42

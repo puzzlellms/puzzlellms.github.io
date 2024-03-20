@@ -9,5 +9,5 @@ tags: []
 - 🔑Public: ✅
 - ⚲ Area: 
 - 📅 Date: 2022-05-21
-- 🔎 Paper Section: fundamental / self-consistency
+- 🔎 Paper Section: methods / fundamental / self-consistency
 - 📝 References: 80

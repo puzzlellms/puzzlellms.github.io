@@ -8,6 +8,6 @@ tags: []
 - 📙Paper: "[BRAINTEASER: Lateral Thinking Puzzles for Large Language Models](https://www.researchgate.net/publication/374846461_BRAINTEASER_Lateral_Thinking_Puzzles_for_Large_Language_Models)"
 - 🔑Public: ✅
 - ⚲ Area: 
-- 📅 Date: -
-- 🔎 Paper Section: fine-tuning
+- 📅 Date: Oct-23
+- 🔎 Paper Section: dataset / rule-less / riddles
 - 📝 References: 63
