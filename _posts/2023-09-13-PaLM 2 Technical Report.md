@@ -2,7 +2,7 @@
 title: PaLM 2 Technical Report
 date: 2023-09-13 00:00:00 +0800
 categories: [model]
-tags: [model]
+tags: [model, palm2]
 ---
 
 - 📙Paper: "[PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)"
