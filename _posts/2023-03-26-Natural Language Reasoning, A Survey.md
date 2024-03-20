@@ -2,7 +2,7 @@
 title: Natural Language Reasoning, A Survey
 date: 2023-03-26 00:00:00 +0800
 categories: [reasoning]
-tags: [reasoning, survey]
+tags: [reasoning]
 ---
 
 - 📙Paper: "[Natural Language Reasoning, A Survey](https://www.semanticscholar.org/paper/Natural-Language-Reasoning%2C-A-Survey-Yu-Zhang/5eab810cc5d90de1c52127d1a5824f0817f46c30)"

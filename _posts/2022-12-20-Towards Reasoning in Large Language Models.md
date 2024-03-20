@@ -2,7 +2,7 @@
 title: Towards Reasoning in Large Language Models
 date: 2022-12-20 00:00:00 +0800
 categories: [reasoning]
-tags: [reasoning, suvey]
+tags: [reasoning]
 ---
 
 - 📙Paper: "[Towards Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2212.10403#)"
