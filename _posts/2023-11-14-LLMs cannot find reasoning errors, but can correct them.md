@@ -1,5 +1,5 @@
 ---
-title: LLMs cannot find reasoning errors, but can correct them!
+title: LLMs cannot find reasoning errors, but can correct them
 date: 2023-11-14 00:00:00 +0800
 categories: [prompting, self-correction]
 tags: [prompting, self-correction]
