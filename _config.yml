@@ -39,7 +39,7 @@ social:
     - https://github.com/puzzlellms # change to your github homepage
 
 
-google_site_verification: google-site-verification=zsKis5bVRvV46KPKZ30faUFQGWIBRxR6aF2yGL6gQNw # fill in to your verification string
+google_site_verification: zsKis5bVRvV46KPKZ30faUFQGWIBRxR6aF2yGL6gQNw #google-site-verification=zsKis5bVRvV46KPKZ30faUFQGWIBRxR6aF2yGL6gQNw # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
